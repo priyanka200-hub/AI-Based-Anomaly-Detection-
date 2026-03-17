@@ -43,7 +43,7 @@ A powerful web-based platform for detecting anomalies in datasets using advanced
 
 1. Run the Streamlit application:
    ```bash
-   streamlit run sample.py
+   streamlit run app.py
    ```
 2. Open your web browser and navigate to the local URL (usually `http://localhost:8501`)
 3. Upload a CSV dataset in the "Upload & Analyze" tab
@@ -56,10 +56,11 @@ A powerful web-based platform for detecting anomalies in datasets using advanced
 
 ```
 AI-Anomaly-Detection/
-├── sample.py              # Main Streamlit application
-├── data/                  # Directory for uploaded datasets
+├── app.py                 # Main Streamlit application
 ├── requirements.txt       # Python dependencies
+├── sample_dataset.csv     # Sample dataset for testing
 ├── README.md             # This file
+├── data/                 # Directory for uploaded datasets
 └── .git/                 # Git repository
 ```
 
