@@ -4,10 +4,6 @@ numpy
 scikit-learn
 matplotlib
 plotly
-- **Prediction Logs**: Comprehensive logging of all detection runs with downloadable reports
-- **Data Persistence**: Uploaded datasets are saved for future reference
-
-## Requirements
 
 - Python 3.8 or higher
 - Required Python packages:

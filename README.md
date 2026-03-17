@@ -59,8 +59,7 @@ AI-Anomaly-Detection/
 ├── sample.py              # Main Streamlit application
 ├── data/                  # Directory for uploaded datasets
 ├── requirements.txt       # Python dependencies
-├── README/                # Documentation folder
-│   └── README.md         # This file
+├── README.md             # This file
 └── .git/                 # Git repository
 ```
 
